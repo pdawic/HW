@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\HW\\HW\\HW.csproj": {}
+    "D:\\00_GIT\\C#\\HW\\HW\\HW.csproj": {}
   },
   "projects": {
-    "D:\\C#\\HW\\HW\\HW.csproj": {
+    "D:\\00_GIT\\C#\\HW\\HW\\HW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\HW\\HW\\HW.csproj",
+        "projectUniqueName": "D:\\00_GIT\\C#\\HW\\HW\\HW.csproj",
         "projectName": "HW",
-        "projectPath": "D:\\C#\\HW\\HW\\HW.csproj",
+        "projectPath": "D:\\00_GIT\\C#\\HW\\HW\\HW.csproj",
         "packagesPath": "C:\\Users\\02pdawic\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\HW\\HW\\obj\\",
+        "outputPath": "D:\\00_GIT\\C#\\HW\\HW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\02pdawic\\AppData\\Roaming\\NuGet\\NuGet.Config",

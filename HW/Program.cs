@@ -15,10 +15,10 @@ namespace ExercisesConsole
             {
 
                 Console.Clear();
-                string N;
+                string number;
                 Console.WriteLine("enter a number and print its digits in words, for example entered 123:");
-                N = Console.ReadLine();
-                printWord(N);
+                number = Console.ReadLine();
+                PrintWord(number);
                 Console.WriteLine();
                 Console.WriteLine("Press Q o q to quit.");
                 Console.WriteLine();
@@ -26,18 +26,18 @@ namespace ExercisesConsole
             }
         }
 
-        static void printWord(string N)
+        static void PrintWord(string number)
         {
-            int i, length = N.Length;
+            int i, length = number.Length;
 
             for (i = 0; i < length; i++)
             {
-                printValue(N[i]);
+                PrintValue(number[i]);
             }
         }
 
 
-        static void printValue(char digit)
+        static void PrintValue(char digit)
         {
             switch (digit)
             {
