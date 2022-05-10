@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\02pdawic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\01_SZKOLENIA\\09_InfoShareAcademy_C#\\GIT\\HW\\EX2\\EX2.csproj",
+      "projectUniqueName": "D:\\00_GIT\\C#\\HW\\EX2\\EX2.csproj",
       "projectName": "EX2",
-      "projectPath": "D:\\01_SZKOLENIA\\09_InfoShareAcademy_C#\\GIT\\HW\\EX2\\EX2.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\01_SZKOLENIA\\09_InfoShareAcademy_C#\\GIT\\HW\\EX2\\obj\\",
+      "projectPath": "D:\\00_GIT\\C#\\HW\\EX2\\EX2.csproj",
+      "packagesPath": "C:\\Users\\02pdawic\\.nuget\\packages\\",
+      "outputPath": "D:\\00_GIT\\C#\\HW\\EX2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\02pdawic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
