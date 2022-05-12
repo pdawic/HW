@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using EX2.Model;
+using EX2.Models;
 
 namespace EX2
 {
